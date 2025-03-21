@@ -1,6 +1,10 @@
-☕ Cafeteria Serenatto
+#☕ Cafeteria Serenatto
+
+![image](https://github.com/user-attachments/assets/4ae700d2-4616-4893-b8a0-9392cb9e2142)
 
 Acesse o projeto diretamente no Vercel
+
+[![Deploy on Vercel](https://img.shields.io/badge/Vercel-Deploy-success?style=for-the-badge&logo=vercel)](https://cafeteria-serenatto-sepia.vercel.app/)
 
 Bem-vindo ao repositório do projeto Cafeteria Serenatto! Este projeto consiste na construção de uma página web moderna e estilosa para a cafeteria Serenatto Café e Bistrô, utilizando HTML, CSS e JavaScript, com componentes interativos do Bootstrap 5.
 

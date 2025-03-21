@@ -1,4 +1,4 @@
-#☕ Cafeteria Serenatto
+# ☕ Cafeteria Serenatto
 
 ![image](https://github.com/user-attachments/assets/4ae700d2-4616-4893-b8a0-9392cb9e2142)
 
